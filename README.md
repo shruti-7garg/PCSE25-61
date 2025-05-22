@@ -25,5 +25,4 @@
 5. Final Presentation
 6. Source Code
 7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
+8. README (This file)
