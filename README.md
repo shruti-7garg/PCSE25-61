@@ -1,15 +1,22 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Heart Disease Prediction Using Image Recognition 
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. SHRUTI GARG
+   ROLL NO. - 2100290100161
+   SECTION-  C
+
+2. NAVEEN MISHRA
+   ROLL NO. - 2100290100107
+   SECTION- B
+
+3. PRIYANSHU SINGH
+   ROLL NO. - 2100290100121
+   SECTION - B
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Upload the ECG image of patient that need to be checked.
+2. Probability of disease will be shown after running the code.
+   
 
 ## Checklist:
 1. Final Project Report
